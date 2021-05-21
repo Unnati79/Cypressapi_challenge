@@ -3,7 +3,7 @@ This readme explains how to run  api tests with mentioned acceptance criteria.
 
 ## Getting started:
 1. Make sure you have node.js installed on your local
-2. Checkout out the git repo: ****
+2. Checkout out the git repo: **https://github.com/Unnati79/Cypressapi_challenge.git**
 3. On terminal run: **npm install cypress --save-dev'** this will install Cypress locally as a dev dependency for your project
 4. On terminal run **'npm init'** : this will initialize the project and create a package.json for the project
 
